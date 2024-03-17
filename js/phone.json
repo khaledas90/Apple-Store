@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Apple iPhone 12",
+        "description": "The latest iPhone with advanced features",
+        "price": 400
+    },
+    {
+        "name": "iPhone 13 Pro",
+        "description": "High-performance Android smartphone",
+        "price": 300
+    },
+    {
+        "name": "Apple iPhone 12",
+        "description": "Google's flagship smartphone with exceptional camera capabilities",
+        "price": 310
+    },
+    {
+        "name": "Apple iPhone SE",
+        "description": "Gaming smartphone with high-refresh-rate display",
+        "price": 450
+    },
+    {
+        "name": "Apple iPhone 11 Pro",
+        "description": "The 11 Pro and 11 Pro Max are Apple's first iPhones to feature a pro designation",
+        "price": 200
+    },
+    {
+        "name": "Apple iPhone 14 Pro",
+        "description": "The iPhone 14 and iPhone 14 Plus feature a 6.1-inch (15 cm) and 6.7-inch (17 cm) display",
+        "price": 350
+    },
+    {
+        "name": " iPhone 11 Pro Max",
+        "description": "The iPhone 11 Pro and 11 Pro Max both have an A13 Bionic processor",
+        "price": 400
+    },
+    {
+        "name": "iPhone 12 Mini",
+        "description": "Support for display of multiple languages and characters simultaneously",
+        "price": 450
+    },
+    {
+        "name": "iPhone 15 Pro",
+        "description": "The innovative new design features back glass that has color infused throughout the material.",
+        "price": 450
+    },
+    {
+        "name": "iPhone 15 Pro Max",
+        "description": "The iPhone 15 Pro Max comes with a new contoured titanium frame, a USB Type-C port",
+        "price": 330
+    },
+    {
+        "name": " iPhone 11 Min",
+        "description": "The iPhone 11 has a 6.1-inch (15 cm) IPS LCD with a resolution is 1792 × 828 pixels",
+        "price": 430
+    },
+    {
+        "name": "iPhone 11 pro",
+        "description": "Notable improvements over the previous devices include the triple-lens",
+        "price": 430
+    }
+]
